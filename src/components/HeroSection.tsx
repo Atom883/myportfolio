@@ -122,7 +122,7 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 こんにちは！趣味はアニメ・温泉・ランニング・旅です。<br/>現在は福岡のベンチャー企業でインターンとして実務経験を積ませていただいています。<br/>新しいことを学ぶのが好きで、日々成長できるよう努力しています。
+              🚀 こんにちは！<br/>現在、福岡のベンチャー企業でインターンとして実務経験を積ませていただいています。<br/>新しいことを学ぶのが好きで、日々成長できるよう努力しています。
             </p>
           </div>
         </MotionWrapper>
